@@ -6,6 +6,8 @@
 /storage/*.key
 /storage/pail
 /vendor
+public/products
+/public/products
 vendor
 .phpactor.json
 .phpunit.result.cache
